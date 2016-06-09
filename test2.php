@@ -1,0 +1,3 @@
+<?php
+htmlspecialchars_decode;
+ ?>
